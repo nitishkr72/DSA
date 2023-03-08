@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="044832be-ce10-4144-a26a-b2d18e571aa7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayPart1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="044832be-ce10-4144-a26a-b2d18e571aa7" name="Changes" comment="Array Part 1 Finished" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +57,19 @@
       <option name="presentableId" value="Default" />
       <updated>1678277741710</updated>
     </task>
+    <task id="LOCAL-00001" summary="Array Part 1 Finished">
+      <created>1678290809189</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678290809189</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Array Part 1 Finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Array Part 1 Finished" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -83,6 +87,11 @@
           <url>file://$PROJECT_DIR$/ArrayPart1.java</url>
           <line>29</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ArrayPart1.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
